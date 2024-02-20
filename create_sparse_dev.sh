@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# librispeech_subdir=/data/rigel1/corpora/LibriSpeech/LibriSpeech/test-clean/ # path to LibriSpeech test-clean
-librispeech_subdir=/data/rigel1/corpora/LibriSpeech/LibriSpeech/dev-clean/ # path to LibriSpeech test-clean
+librispeech_subdir=/data/rigel1/corpora/LibriSpeech/LibriSpeech/dev-clean/ # path to LibriSpeech dev-clean
 noise_dir=/data/work95/marc/wham/wham_noise/tt # path to test WHAM noises
 metadata_dir=./metadata
 out_dir=/home/jpeng/ntt/work/Data/sparse_libri_def/dev # output directory
